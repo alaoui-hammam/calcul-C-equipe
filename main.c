@@ -7,7 +7,7 @@ int produit(int a,int b) {return a*b ;}
 int main(){
 	int result;
 	float moy;
-	printf("Projet collaboratif \n");
+	printf("Bonjour depuis la branche \n");
 	result=produit(3,4);
 	printf("produit est : %d\n",result);
 	moy=moyenne(20,15);
@@ -15,3 +15,4 @@ int main(){
 
 	return 0;
 }
+
